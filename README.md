@@ -1,9 +1,9 @@
-iPG
+ATI
 ===
 
-iPG is a basic Y-Combinator interview simulator which asks general
-questions about you and your company, akin to the questions in which you
-may be asked in a real Y-Combinator, or any incubator/investor, interview.
+ATI is a basic interview simulator which asks general
+questions about your career, values and the reasons you chose to apply, akin to the questions in which you
+may be asked in a real FAANG/finance/start-up interview.
 
-iPG was written by James Cunningham and Colin Hayhurst for their
-Y-Combinator interview with [GoScale](https://goscale.com).
+ATI is inspired from iPG, which was written by James Cunningham and Colin Hayhurst for their
+Y-Combinator interview
