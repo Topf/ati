@@ -58,6 +58,13 @@ var q = [
     'What is a recent news that you found interesting/intruiging?',
     'Do you like NFTs?',
     'Describe a complex technical problem you had to solve.',
+    'What are the reasons behind the failure of your startup? What could you have done to avoid it?',
+    'Why did you decide to found a startup and what did you try to achieve?',
+    'What did you learn from the failure of your startup and how can you use this experience in your future career?',
+    'Please explaint your experience at BOAS, what was your role? Why do you want to leave for this internship?',
+    'Why do you think that the European health system is broken? What would need to be improved?',
+    'There are plenty of students applying from your university with equal or better work experience, why should we hire you?',
+    'What are your most important values?',
 	'What&#39;s the biggest mistake you have made?'
 
 ];
